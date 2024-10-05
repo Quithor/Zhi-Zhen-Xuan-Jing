@@ -1,0 +1,20 @@
+{
+  "result": { "item": "hhqg:htbgt", "count": 1 },
+  "pattern": [
+    "538",
+    "402",
+    "761"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "1": { "item": "hhqg:qian" },
+    "2": { "item": "hhqg:dui" },
+    "3": { "item": "hhqg:li" },
+    "4": { "item": "hhqg:zhen" },
+    "5": { "item": "hhqg:xun" },
+    "6": { "item": "hhqg:kan" },
+    "7": { "item": "hhqg:gen" },
+    "8": { "item": "hhqg:kun" },
+    "0": { "item": "hhqg:yinyangyv" }
+  }
+}

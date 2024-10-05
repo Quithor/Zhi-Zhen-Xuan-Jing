@@ -1,0 +1,10 @@
+{
+  "type": "hhqg:underworld",
+  "generator": {
+    "type": "noise",
+    "biome_source": {
+      "type": "fixed",
+      "biome": "hhqg:yincao" 
+    }
+  }
+}

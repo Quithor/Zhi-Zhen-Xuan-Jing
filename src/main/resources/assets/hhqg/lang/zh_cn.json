@@ -1,0 +1,18 @@
+{
+  "item_table_dan": "丹",
+  "item_table_other": "其他",
+  "item_table_tool": "工具",
+  "hhqg.command.unknown.command": "未知操作指令",
+  "block.hhqg.straw_mat": "草席",
+  "block.hhqg.grave": "坟",
+  "item.hhqg.qian": "乾卦",
+  "item.hhqg.dui": "兑卦",
+  "item.hhqg.li": "离卦",
+  "item.hhqg.zhen": "震卦",
+  "item.hhqg.xun": "巽卦",
+  "item.hhqg.kan": "坎卦",
+  "item.hhqg.gen": "艮卦",
+  "item.hhqg.kun": "坤卦",
+  "item.hhqg.yinyangyv": "阴阳鱼",
+  "item.hhqg.htbgt": "后天八卦图"
+}

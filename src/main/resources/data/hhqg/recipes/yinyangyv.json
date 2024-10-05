@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bbw",
+    "b w",
+    "bww"
+  ],
+  "key": {
+    "b": {
+      "tag": "hhqg:black_items"
+    },
+    "w": {
+      "tag": "hhqg:white_items"
+    }
+  },"result": { "item": "hhqg:yinyangyv", "count": 1 }
+}

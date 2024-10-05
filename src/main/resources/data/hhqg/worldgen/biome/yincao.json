@@ -1,0 +1,33 @@
+{
+  "has_precipitation": false,
+  "temperature": 0.5,
+  "downfall": 0.86,
+  "creature_spawn_probability": 0.0,
+  "spawn_costs": {},
+  "carvers": {
+    "air":"cave_extra_underground",
+    "liquid": "cave"
+  },
+  "spawners": {
+    "monster": [
+      {
+        "type": "hhqg:gui",
+        "maxCount": 3,
+        "minCount": 1,
+        "weight": 40
+      },{
+        "type": "zombie",
+        "maxCount": 2,
+        "minCount": 1,
+        "weight": 5
+      }
+    ]
+  },
+  "effects": {
+    "fog_color": 921102,
+    "sky_color": 921102,
+    "water_color": 32847,
+    "water_fog_color": 32847
+  },
+  "features": []
+}
