@@ -11,6 +11,7 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.slf4j.Logger;
 import top.yanquithor.hhqg.capability.StageProvider;
+import top.yanquithor.hhqg.net.HHQGNetworking;
 
 import static top.yanquithor.hhqg.register.HHQGBlocks.BLOCKS;
 import static top.yanquithor.hhqg.register.HHQGItems.ITEMS;
@@ -35,6 +36,7 @@ public class HongHuangQianGu {
         ITEMS.register(bus);
         CREATIVE_ITEM_TABLES.register(bus);
         MinecraftForge.EVENT_BUS.addGenericListener(Entity.class, this::attachCapability);
+        HHQGNetworking.registerMessages();
         LOGGER.info("Hong Huang Qian Gu mod initialize finish");
     }
     
