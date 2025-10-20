@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bbw",
+    "b w",
+    "bww"
+  ],
+  "key": {
+    "b": {
+      "tag": "zzxj:black_items"
+    },
+    "w": {
+      "tag": "zzxj:white_items"
+    }
+  },"result": { "item": "zzxj:yinyangyv", "count": 1 }
+}
